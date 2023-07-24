@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @faisalekasyahputra
-- 👀 I’m interested in Moblile apps development and ui design
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-faisalekasyahputra/faisalekasyahputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b6d729f24f25404811807a?variant=dark" alt="roadmap.sh"/></a>
