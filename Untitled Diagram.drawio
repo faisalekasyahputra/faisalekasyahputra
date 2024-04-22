@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T00:43:04.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0mzaRAiQztzlxcCP_zgu" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T01:23:15.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fQoTWAMwQXSIa_k9F3wt" version="24.2.7" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1500" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,8 +173,8 @@
         <mxCell id="2BtfIERAYZwFO2RKLF-u-83" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="82.5" y="700" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2BtfIERAYZwFO2RKLF-u-86" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="272.5" y="395" width="60" height="60" as="geometry" />
+        <mxCell id="2BtfIERAYZwFO2RKLF-u-86" value="Pemesanan" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="272.5" y="395" width="87.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2BtfIERAYZwFO2RKLF-u-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="77e6c97f196da883-3" source="2BtfIERAYZwFO2RKLF-u-76" target="2BtfIERAYZwFO2RKLF-u-86">
           <mxGeometry relative="1" as="geometry" />
